@@ -1,4 +1,6 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Printer Firmware for Tazbot at MAKEVentura
+
+Settings and configurations are set for the Taz 5 build at MAKEVentura with changes notated by end user.
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
