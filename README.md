@@ -2,8 +2,8 @@
 
 Settings and configurations are set for the Taz 5 build at MAKEVentura with changes notated by end user.
 
-<img width=175 src="buildroot/share/pixmaps/logo/tazlogo.jpg" />
-<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" /><img width=175 src="buildroot/share/pixmaps/logo/tazlogo.jpg" />
+
 
 Additional documentation can be found at [The Marlin Documentation Project](http://www.marlinfw.org/).
 Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!
